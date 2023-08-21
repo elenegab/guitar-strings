@@ -1,0 +1,50 @@
+#buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    
+}
+
+h1{
+    text-align: center;
+}
+.btn1{
+    width: 5px;
+    height: 500px;
+    margin: 15px;
+    border: none;
+    background-color: rgb(211, 211, 18);
+}
+.btn2{
+    width: 5px;
+    height: 500px;
+    margin: 15px;
+    border: none;
+    background-color: rgb(211, 211, 18);
+
+}
+.btn3{
+    width: 5px;
+    height: 500px;
+    margin: 15px;
+    border: none;
+    background-color: rgb(211, 211, 18);
+
+}
+.btn4{
+    width: 5px;
+    height: 500px;
+    margin: 15px;
+    border: none;
+    background-color: rgb(211, 211, 18);
+
+}
+.btn5{
+    width: 5px;
+    height: 500px;
+    margin: 15px;
+    border: none;
+    background-color: rgb(211, 211, 18);
+
+}
